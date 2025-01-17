@@ -1,11 +1,11 @@
 # University-Projects
 A collection of my university-related projects
-List of my University Projects:-
--) Tic Tac Toe (PF)
--) Course's Website (ICT)
+# List of My University Projects
 
-1) Tic Tac Toe
-   We created a CLI-based Tic-Tac-Toe game for two players, featuring colors and animations to enhance interactivity and visual appeal. A loading screen function displayed a spinner animation with colorful text, adding a professional touch. The board, implemented as a 2D array, was initialized with numbers 1 to 9 and displayed with a clear grid. Player 1's moves appeared in red, Player 2's in blue, and unoccupied cells in white. The game included functions to check for ties, wins (by evaluating rows, columns, and diagonals), and validate player moves. The main function managed the game loop, alternating turns, checking game status, and displaying results. Players could replay the game after each round, and a "Thank You" message concluded the session.
+## 1. Tic Tac Toe (PF)  
+A CLI-based Tic-Tac-Toe game for two players, featuring colors and animations to enhance interactivity and visual appeal. It includes a professional loading screen with a spinner animation and colorful text. The game board, implemented as a 2D array, is displayed with a clear grid where Player 1's moves appear in red, Player 2's in blue, and unoccupied cells in white. The game has functions to check for ties, wins (evaluating rows, columns, and diagonals), and validate moves. The main function manages the game loop, checks the game status, and allows players to replay. A "Thank You" message concludes the session.
 
-2) ICT Website
-   This project involves developing an ICT website designed to be a user-friendly platform for teachers and students. The website serves as a centralized hub for listing the importance of Information and Communication Technology, and why there is a need for ICT along with features for assistance of students: Class schedules, lab manuals, class tasks, exam-related information, and other educational resources. It is structured to enhance efficiency in ICT-related courses.
+---
+
+## 2. ICT Website  
+A user-friendly website designed as a centralized platform for teachers and students to assist with ICT-related courses. The website highlights the importance of ICT and includes features such as class schedules, lab manuals, class tasks, exam-related information, and other educational resources. It is structured to streamline and enhance efficiency in learning and teaching ICT concepts.
