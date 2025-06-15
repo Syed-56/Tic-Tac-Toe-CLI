@@ -9,3 +9,8 @@ A CLI-based Tic-Tac-Toe game for two players, featuring colors and animations to
 
 ## 2. ICT Website  
 A user-friendly website designed as a centralized platform for teachers and students to assist with ICT-related courses. The website highlights the importance of ICT and includes features such as class schedules, lab manuals, class tasks, exam-related information, and other educational resources. It is structured to streamline and enhance efficiency in learning and teaching ICT concepts.
+
+---
+
+## 3. Tetris
+This project is a modern implementation of the classic Tetris game, developed collaboratively by our team as part of a university assignment. Built using C++ and the Raylib graphics library, the game features smooth controls, dynamic block rotation, line-clearing logic, and real-time scoring. Our goal was to apply Object-Oriented Programming principles while recreating a timeless puzzle experience. The project challenged us to work as a team, improve our coding practices, and manage game state effectively.
